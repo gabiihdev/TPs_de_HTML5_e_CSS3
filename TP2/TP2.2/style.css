@@ -1,0 +1,77 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  body {
+    background-color: #a9bed0;
+    font-family: Noto Sans;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  h3 {
+    text-align: center;
+    text-decoration: underline;
+  }
+  
+  .one {
+    width: 300px;
+    height: 250px;
+    background-color: #4f80b5;
+    color: black;
+    border-radius: 1em;
+    border-width: 0.4em;
+    border-style: double;
+    border-color: black;
+    font-size: 20px;
+    align-items: center;
+  }
+  
+  .two {
+    width: 800px;
+    height: 140px;
+    font-size: 18px;
+    background-color: #0e9549;
+    color: white;
+    border-radius: 0.5em;
+  }
+  
+  .three {
+    width: 800px;
+    height: 140px;
+    font-size: 18px;
+    background-color: #930606;
+    color: white;
+    border-radius: 0.5em;
+    
+  }
+  
+  .four{
+    width: 800px;
+    height: 140px;
+    font-size: 18px;
+    background-color: #501c73;
+    color: white;
+    border-radius: 0.5em;
+  }
+  
+  .five {
+    width: 800px;
+    height: 140px;
+    font-size: 18px;
+    background-color: #c12f47;
+    color: white;
+    border-radius: 0.5em;
+  }
+  
+  .six {
+    width: 800px;
+    height: 140px;
+    font-size: 18px;
+    background-color: #545454;
+    color: white;
+    border-radius: 0.5em;
+  }

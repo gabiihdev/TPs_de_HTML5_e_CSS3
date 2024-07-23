@@ -1,0 +1,15 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  body {
+    background-color: #2b438c;
+    color: white;
+  }
+  
+  p {
+    font-style: normal;
+    font-size: 18px;
+    font-family: Arial;
+  }
